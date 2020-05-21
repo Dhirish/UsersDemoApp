@@ -1,0 +1,8 @@
+com\appsdeveloperblog\photoapp\equipment\model\EquipmentResponseModel.class
+com\appsdeveloperblog\photoapp\equipment\service\EquipmentService.class
+com\appsdeveloperblog\photoapp\equipment\PhotoAppEquipmentApplication.class
+com\appsdeveloperblog\photoapp\equipment\service\EquipmentServiceImpl.class
+com\appsdeveloperblog\photoapp\equipment\shared\EquipmentDto.class
+com\appsdeveloperblog\photoapp\equipment\entitiy\EquipmentRepository.class
+com\appsdeveloperblog\photoapp\equipment\controller\EquipmentController.class
+com\appsdeveloperblog\photoapp\equipment\entitiy\EquipmentEntity.class
